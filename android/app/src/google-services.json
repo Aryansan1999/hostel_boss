@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490617348667",
+    "firebase_url": "https://hostel-boss-default-rtdb.firebaseio.com",
+    "project_id": "hostel-boss",
+    "storage_bucket": "hostel-boss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490617348667:android:986f0f3086b11203a2f21e",
+        "android_client_info": {
+          "package_name": "com.example.hostel_boss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490617348667-5idcb5fvgemrhcn3q4pftl5sgiuq3e1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOgDdjP1AOMj4U5_EtW9Jeec7r0J-d2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490617348667-5idcb5fvgemrhcn3q4pftl5sgiuq3e1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
